@@ -49,7 +49,7 @@
 ## Инструкции по запуску
 
 1. Клонировать репозиторий:
-
+```bash
     git clone https://github.com/danon47/Skillbox-3D-course.git
 2. Для работы с сервером:
 
@@ -57,8 +57,10 @@
    `cd backend`
 
   - Установите зависимости:
-
-  `npm install`
+  - 
+```bash
+npm install
+`
 
   - Запустите сервер:
 
@@ -72,7 +74,9 @@
 
 - Установите зависимости:
 
-  npm install
+```bash
+npm install
+
 
   - Запустите приложение:
 
