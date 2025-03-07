@@ -70,9 +70,9 @@
 
   - Перейдите в папку frontend:
   ```bash
-cd frontend
+  cd frontend
 
-  - Установите зависимости:
+- Установите зависимости:
   ```bash
   npm install
 
