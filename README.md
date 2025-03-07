@@ -56,15 +56,15 @@
 
   - Перейдите в папку backend:
    ```bash
-   cd backend
+   `cd backend`
 
   - Установите зависимости:
   ```bash
-  npm install
+  `npm install`
 
   - Запустите сервер:
   ```bash
-  npm run dev
+  `npm run dev`
 
 3. Для работы с клиентской частью:
 
